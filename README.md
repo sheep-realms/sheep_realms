@@ -28,13 +28,25 @@
 }
 ```
 
-### Request
+### Request (Standard)
 ```
 {
   "cmd": "request userinfo";
   "sprp_id": "SPR-NET-API-001";
   "sprp_version": "1.0.0";
   "uuid": "a000-0000-0000-0001";
+  "request-type": "basic";
+}
+```
+
+### Request (Logged-in user)
+```
+{
+  "cmd": "request userinfo";
+  "sprp_id": "SPR-NET-API-001";
+  "sprp_version": "1.0.0";
+  "uuid": "a000-0000-0000-0001";
+  "request-from": "a000-0000-0000-0013";
   "request-type": "display";
   "request-list": []
 }
