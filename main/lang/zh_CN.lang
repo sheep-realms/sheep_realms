@@ -66,3 +66,6 @@ msg.error.unknow=[-1] 发生未知错误！建议将有关错误报告向开发�
 msg.error.missingno=[-2] 发生未定义错误！该问题可能已经被发现，但开发者未对此错误进行定义。
 msg.error.disastrous=[-3] 发生致命错误！%appname%正在重新启动。如有疑问请联系开发者。
 msg.error.testerror=[-101] 自发性的错误——只是在玩梗而已！
+
+debug=调试
+debug.mode=调试模式
