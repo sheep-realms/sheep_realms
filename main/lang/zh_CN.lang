@@ -3,7 +3,7 @@ lang.name=简体中文（中国）
 lang.sign=简体中文语言包
 lang.author=绵羊领域
 lang.mainversion=__currency__
-lang.version=1.0
+lang.version=1.1
 lang.edition=3
 
 
@@ -61,6 +61,22 @@ msg.info.tcp.close=连接终止。
 msg.info.tcp.interrupt=连接意外中断。
 msg.info.tcp.timeout=连接超时。
 msg.info.tcp.reset=连接被重置。
+
+msg.info.http.400=错误的请求。
+msg.info.http.401=无法验证您的身份。
+msg.info.http.402=保留资源。
+msg.info.http.403=服务器拒绝了您的请求。
+msg.info.http.404=未找到请求的资源。
+msg.info.http.405=非法请求。
+msg.info.http.406=服务器无法完成请求。
+msg.info.http.407=无法验证您的身份，请使用代理。
+msg.info.http.408=请求超时。
+msg.info.http.410=您请求的资源已被删除。
+msg.info.http.500=服务器发生内部错误。
+msg.info.http.501=服务器不支持请求。
+msg.info.http.502=无效响应。
+msg.info.http.503=服务器正在维护。
+msg.info.http.505=您的HTPP协议版本过旧。
 
 msg.error.unknow=[-1] 发生未知错误！建议将有关错误报告向开发者反馈，谢谢！
 msg.error.missingno=[-2] 发生未定义错误！该问题可能已经被发现，但开发者未对此错误进行定义。
