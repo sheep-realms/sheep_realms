@@ -1,0 +1,71 @@
+lang.code=zh_CN
+lang.name=English (US)
+lang.sign=English language pack
+lang.author=Sheep Realms
+lang.mainversion=__currency__
+lang.version=1.0
+lang.edition=3
+
+
+c.yes=Yes
+c.no=No
+c.ok=OK
+c.cancel=Cancel
+c.close=Close
+c.unload=Unload
+c.exit=Exit
+c.next=Next
+c.last=Last
+c.save=Save
+c.saveas=Save as
+c.copy=Copy
+c.paste=Paste
+c.cut=Cut
+c.application=Application
+c.link=Link
+c.connet=Connect
+c.disconnect=Disconnect
+
+m.file=&File
+m.file.save=&Save
+m.file.exit=E&xit
+m.edit=&Edit
+m.view=&View
+m.tool=$Tool
+m.settings=&Settings
+m.help=&Help
+m.debug=&Debug
+
+msg.info.net.unknow=无法确认您的网络状态。
+msg.info.net.missingno=未定义的网络状态。
+msg.info.net.nonet=您未连接到网络。
+msg.info.net.nodata=您连接的网络可能无法使用。
+msg.info.net.timeout=连接超时。
+msg.info.net.reset=连接已被重置。
+msg.info.net.servernodate=服务器未发送任何数据。
+msg.info.net.serverexception=服务器可能无法正常运作。
+msg.info.net.serveroffline=服务器未上线。
+msg.info.net.serverrefuse=服务器拒绝了连接请求。
+msg.info.net.serverban=您已被服务器封禁。
+msg.info.net.serverprint=服务器发送了一条原始广播：%msg%
+
+msg.info.tcp.unknow=未知状态。
+msg.info.tcp.missingno=未定义状态。
+msg.info.tcp.interception=侦听中...
+msg.info.tcp.connect=连接中...
+msg.info.tcp.ok=已连接。
+msg.info.tcp.serverclose=正在终止连接...
+msg.info.tcp.clientcloseearly=服务器正在终止连接...
+msg.info.tcp.clientclose=服务器已终止连接。
+msg.info.tcp.close=连接终止。
+msg.info.tcp.interrupt=连接意外中断。
+msg.info.tcp.timeout=连接超时。
+msg.info.tcp.reset=连接被重置。
+
+msg.error.unknow=[-1] 发生未知错误！建议将有关错误报告向开发者反馈，谢谢！
+msg.error.missingno=[-2] 发生未定义错误！该问题可能已经被发现，但开发者未对此错误进行定义。
+msg.error.disastrous=[-3] 发生致命错误！%appname%正在重新启动。如有疑问请联系开发者。
+msg.error.testerror=[-101] 自发性的错误——只是在玩梗而已！
+
+debug=Debug
+debug.mode=Debug Mode
