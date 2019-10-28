@@ -1,0 +1,14 @@
+c.yes=是
+c.no=否
+c.ok=确认
+c.cancel=取消
+c.close=关闭
+c.unload=关闭
+c.exit=退出
+c.next=下一个
+c.last=上一个
+
+msg.error.unknow=[-1] 发生未知错误！建议将有关错误报告向开发者反馈，谢谢！
+msg.error.missingno=[-2] 发生未定义错误！该问题可能已经被发现，但开发者未对此错误进行定义。
+msg.error.disastrous=[-3] 发生致命错误！%appname%正在重新启动。如有疑问请联系开发者。
+msg.error.testerror=[-101] 自发性的错误——只是在玩梗而已！
