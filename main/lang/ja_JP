@@ -1,0 +1,71 @@
+lang.code=zh_CN
+lang.name=日本語（日本）
+lang.sign=日本語のカバン
+lang.author=Sheep Realms
+lang.mainversion=__currency__
+lang.version=1.0
+lang.edition=3
+
+
+c.yes=はい
+c.no=いいえ
+c.ok=確認
+c.cancel=キャンセル
+c.close=閉じる
+c.unload=閉じる
+c.exit=終了
+c.next=下一个
+c.last=上一个
+c.save=保存
+c.saveas=名前を付けて保存
+c.copy=コピー
+c.paste=貼り付け
+c.cut=切り取り
+c.application=アプリケーション
+c.link=リンク
+c.connet=接続
+c.disconnect=リンクを切断
+
+m.file=ファイル(&F)
+m.file.save=保存(&S)
+m.file.exit=終了(&X)
+m.edit=編集(&E)
+m.view=ビュー(&V)
+m.tool=工具(&T)
+m.settings=設定(&S)
+m.help=ヘルプ(&H)
+m.debug=デバッグ(&D)
+
+msg.info.net.unknow=ネットワークの状態を確認できませんでした。
+msg.info.net.missingno=未定義のネットワーク状態。
+msg.info.net.nonet=ネットワークに接続されていません。
+msg.info.net.nodata=接続されたネットワークは使えないかもしれません。
+msg.info.net.timeout=接続がタイムアウトしました。
+msg.info.net.reset=接続がリセットされました。
+msg.info.net.servernodate=サーバからデータが送信されていません。
+msg.info.net.serverexception=サーバーが正常に動作しないかもしれません。
+msg.info.net.serveroffline=サーバがオンラインされていません。
+msg.info.net.serverrefuse=サーバは接続要求を拒否しました。
+msg.info.net.serverban=サーバによって禁止されました。
+msg.info.net.serverprint=サーバからオリジナルのブロードキャストが送信されました - %msg%
+
+msg.info.tcp.unknow=未知の状態です。
+msg.info.tcp.missingno=状態が指定されていません。
+msg.info.tcp.interception=偵察中…
+msg.info.tcp.connect=接続中…
+msg.info.tcp.ok=接続されました。
+msg.info.tcp.serverclose=接続を中止しています…
+msg.info.tcp.clientcloseearly=サーバが接続を終了しています…
+msg.info.tcp.clientclose=サーバは接続を終了しました。
+msg.info.tcp.close=接続が終了しました。
+msg.info.tcp.interrupt=接続が突然中断されました。
+msg.info.tcp.timeout=接続がタイムアウトしました。
+msg.info.tcp.reset=接続がリセットされました。
+
+msg.error.unknow=[-1] 未知のエラーが発生しました。バグに関する報告を開発者にフィードバックすることを提案します。ありがとうございます。
+msg.error.missingno=[-2] 未定義エラーが発生しました。この問題は発見されたかもしれませんが、開発者はこのエラーを定義していません。
+msg.error.disastrous=[-3] 致命的なエラーが発生しました。%appname%再起動しています。質問があれば開発者に連絡してください。
+msg.error.testerror=[-101] 自発的な誤り――ただの冗談です。
+
+debug=デバッグ
+debug.mode=デバッグモード
