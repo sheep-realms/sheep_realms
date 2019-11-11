@@ -7,6 +7,13 @@
   }
   "strategy": {
     "main-strategy": "auto";
-    "extra-parameters": "-de 0 -det 7d -dest auto"
+    "extra-parameters": "-de 0 -det 7d -dest auto";
+    "special": [
+      {
+        "event": "yz-wx";
+        "action": "gj-yz";
+        "level": "max";
+      }
+    ];
   }
 }
