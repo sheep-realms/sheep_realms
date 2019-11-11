@@ -1,0 +1,10 @@
+{
+  aioinfo: {
+    id: "spa";
+    uid: 3;
+    name: "SPA";
+  }
+  strategy: {
+    main-strategy: "auto";
+  }
+}
