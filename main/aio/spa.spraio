@@ -6,5 +6,6 @@
   }
   strategy: {
     main-strategy: "auto";
+    extra-parameters: "-de 0 -det 7d -dest auto"
   }
 }
