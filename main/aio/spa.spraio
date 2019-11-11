@@ -1,11 +1,12 @@
 {
-  aioinfo: {
-    id: "spa";
-    uid: 3;
-    name: "SPA";
+  "aioinfo": {
+    "id": "spa";
+    "uid": 3;
+    "uuid": "a000-0000-0000-0003";
+    "name": "SPA";
   }
-  strategy: {
-    main-strategy: "auto";
-    extra-parameters: "-de 0 -det 7d -dest auto"
+  "strategy": {
+    "main-strategy": "auto";
+    "extra-parameters": "-de 0 -det 7d -dest auto"
   }
 }
